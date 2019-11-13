@@ -5,7 +5,7 @@
 Visual Studio Code (VS Code)는 개발자의 개발 속도를 향상시키는 파워풀한 크로스플랫폼 무료 개발환경입니다. 이번 과정을 통해 아래 내용을 학습할 수 있습니다.
 
 ## 학습목표
-- Azure IoT Tool 을 통해 Azure IoT Hub 에 IoT 디바이스를 추가하고 온/습도 코드 자동 생성
+- VS Code 의 Azure IoT Tool extention 을 통해 Azure IoT Hub 에 IoT 디바이스를 추가하고 온/습도 코드 자동 생성
 - 생성된 IoT 디바이스 코드로 바로 IoT Hub 에 연결
 - Azure Edge 를 통해 IoT Hub 에 연결
 - Azure IoT Explorer 를 통해 두 경우 Telemetry 정보 확인
