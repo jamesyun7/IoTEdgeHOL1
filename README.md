@@ -129,7 +129,7 @@ SharedAccessKey=`<my-policy-key>`
     ![](images/conn-hostname.png)
 
 
-9. 다시 F5 를 눌러 코드를 실행하면 Edge Device 를 통해 IoT Hub 로 메세지가 들어오는 것 뿐 아니라 30도 이상의 온도는 이전에 배포한 모듈에서 "temperatureAlert" : "true" 처리가 되는 것을 볼 수 있습니다.
+9. 다시 F5 를 눌러 코드를 실행하면 Edge Device 를 통해 IoT Hub 로 메세지가 들어오고 30도 이상의 온도는 "temperatureAlert" : "true" 메세지가 추가되는 것을 볼 수 있습니다.
 
     ![](images/iot-explorer-5.png)
 
