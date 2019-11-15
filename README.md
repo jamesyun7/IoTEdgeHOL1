@@ -91,7 +91,7 @@ SharedAccessKey=`<my-policy-key>`
 2. Azure IoT Explorer 를 실행하고 IoT Hub connection string 를 입력합니다.
 
     ![](images/iot-explorer-1.png)
-    > 다수의 IoT Hub가 있을 시 선택하여 사용하기 편합니다.
+    > 한 번 입력해두면 다수의 IoT Hub가 있을 시 선택하여 사용하기 편합니다.
 
 
 3. IoT Hub 에 추가된 Device 리스트가 나타납니다.
