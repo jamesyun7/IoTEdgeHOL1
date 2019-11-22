@@ -317,7 +317,7 @@ SharedAccessKey=`<my-policy-key>`
     1. [Azure IoT Plug and Play](https://github.com/Azure/IoTPlugandPlay)
     2. `IoT Device Code generation from Plug and Play with VS Code`
     3. [IoT Plug and Play certified devices](https://catalog.azureiotsolutions.com/alldevices?filters={%2220%22:[%221%22]})
-        - Example#1 - [SHARP Windows Collaboration Display](https://catalog.azureiotsolutions.com/details?title=Windows-Collaboration-Display-PN_CD701&source=all-devices-page)
+        - Example#1 - [SHARP Windows Collaboration Display](https://catalog.azureiotsolutions.com/details?title=Windows-Collaboration-Display-PN_CD701&source=all-devices-page&deviceId=6fe60984-d8b1-4028-85f4-ba2fef6bfd46)
         - Example#2 - [Vibration monitoring solution](https://catalog.azureiotsolutions.com/details?title=Equipment-Vibration-Monitoring-Solution&source=all-devices-page&deviceId=d658b5f0-d2e3-467d-ae00-39a8dabee4f9)
     4. [Azure IoT Central + Azure IoT Plug and Play](http://www.azureiotcentral.com/)
 
